@@ -164,7 +164,6 @@ Homepage → Sign Up → Dashboard → Sign Out → Sign In → Dashboard
 
 ## **Project Structure**
 
-\`\`\`
 simpler-assignment/
 ├── app/                          # Next.js App Router
 │   ├── about/                    # About page
@@ -205,7 +204,6 @@ simpler-assignment/
 ├── tailwind.config.js            # Tailwind configuration
 ├── tsconfig.json                 # TypeScript configuration
 └── README.md                     # Project documentation
-\`\`\`
 
 ---
 
