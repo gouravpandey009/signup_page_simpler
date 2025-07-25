@@ -12,7 +12,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
 
-[🌟 Live Demo](https://your-app.vercel.app)
+[Live Demo](https://your-app.vercel.app)
 
 </div>
 
@@ -60,7 +60,7 @@ SimplerTech is an **extraordinary authentication system** that showcases modern 
 - **Profile Management** with user information
 - **Interactive Components** with modern design
 
-### 🛠 **Technical Excellence**
+### **Technical Excellence**
 - **TypeScript** for type safety
 - **Server-Side Rendering** with Next.js
 - **Component Architecture** with reusable UI components
@@ -70,7 +70,7 @@ SimplerTech is an **extraordinary authentication system** that showcases modern 
 
 ---
 
-## 🛠 **Tech Stack**
+## **Tech Stack**
 
 ### **Frontend**
 - **Framework:** Next.js 15.1.3
@@ -135,7 +135,7 @@ npm run lint     # Run ESLint
 
 ---
 
-## 🎮 **Usage Guide**
+## **Usage Guide**
 
 ### **Getting Started**
 
@@ -163,7 +163,7 @@ Homepage → Sign Up → Dashboard → Sign Out → Sign In → Dashboard
 ---
 
 ## **Project Structure**
-
+```
 simpler-assignment/
 ├── app/                          # Next.js App Router
 │   ├── about/                    # About page
@@ -204,7 +204,7 @@ simpler-assignment/
 ├── tailwind.config.js            # Tailwind configuration
 ├── tsconfig.json                 # TypeScript configuration
 └── README.md                     # Project documentation
-
+```
 ---
 
 ## **Design System**
