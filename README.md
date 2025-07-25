@@ -145,9 +145,10 @@ npm run lint     # Run ESLint
 
 ### **Authentication Flow**
 
-\`\`\`
+```
 Homepage → Sign Up → Dashboard → Sign Out → Sign In → Dashboard
-\`\`\`
+```
+
 
 ### **Key Pages**
 
@@ -229,7 +230,7 @@ simpler-assignment/
 
 ### **Vercel Deployment (Recommended)**
 
-\`\`\`bash
+```bash
 # Install Vercel CLI
 npm install -g vercel
 
@@ -240,68 +241,64 @@ vercel login
 vercel
 
 # Follow the prompts for configuration
-\`\`\`
+```
 
 ### **Manual Deployment**
 
-1. **Build the project:** \`npm run build\`
-2. **Upload to your hosting provider**
-3. **Configure environment variables**
-4. **Set up custom domain (optional)**
+1. **Build the project:** `npm run build`  
+2. **Upload to your hosting provider**  
+3. **Configure environment variables**  
+4. **Set up custom domain (optional)**  
 
 ### **Environment Variables**
 
-Create a \`.env.local\` file for local development:
+Create a `.env.local` file for local development:
 
-\`\`\`env
+```env
 NEXT_PUBLIC_APP_URL=http://localhost:3000
-\`\`\`
+```
 
 ---
 
-
 ### **Getting Started**
 
-1. **Fork the repository**
-2. **Create a feature branch:** \`git checkout -b feature/amazing-feature\`
-3. **Make your changes**
-4. **Commit your changes:** \`git commit -m 'Add amazing feature'\`
-5. **Push to the branch:** \`git push origin feature/amazing-feature\`
-6. **Open a Pull Request**
+1. **Fork the repository**  
+2. **Create a feature branch:** `git checkout -b feature/amazing-feature`  
+3. **Make your changes**  
+4. **Commit your changes:** `git commit -m 'Add amazing feature'`  
+5. **Push to the branch:** `git push origin feature/amazing-feature`  
+6. **Open a Pull Request**  
 
 ### **Development Guidelines**
 
-- Follow TypeScript best practices
-- Use meaningful commit messages
-- Write clean, documented code
-- Test your changes thoroughly
-- Follow the existing code style
+- Follow TypeScript best practices  
+- Use meaningful commit messages  
+- Write clean, documented code  
+- Test your changes thoroughly  
+- Follow the existing code style  
 
 ### **Areas for Contribution**
 
-- Enhanced security features
-- Additional UI components
-- Mobile app version
-- Internationalization
-- Analytics integration
--  Search functionality
+- Enhanced security features  
+- Additional UI components  
+- Mobile app version  
+- Internationalization  
+- Analytics integration  
+- Search functionality  
 
 ---
 
 ## **Performance**
 
 ### **Lighthouse Scores**
-- **Performance:** 95+
-- **Accessibility:** 100
-- **Best Practices:** 100
-- **SEO:** 100
+- **Performance:** 95+  
+- **Accessibility:** 100  
+- **Best Practices:** 100  
+- **SEO:** 100  
 
 ### **Optimizations**
-- Code splitting with Next.js
-- Image optimization
-- Lazy loading components
-- Efficient bundle size
-- Server-side rendering
-
-
-
+- Code splitting with Next.js  
+- Image optimization  
+- Lazy loading components  
+- Efficient bundle size  
+- Server-side rendering  
