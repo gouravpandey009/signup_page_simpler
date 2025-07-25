@@ -107,7 +107,7 @@ SimplerTech is an **extraordinary authentication system** that showcases modern 
 
 ### **Quick Start**
 
-\`\`\`bash
+```bash
 # Clone the repository
 git clone https://github.com/gouravpandey009/signup_page_simpler.git
 
@@ -122,18 +122,16 @@ npm run dev
 
 # Open your browser
 # Visit http://localhost:3000
-\`\`\`
+```
 
 ### **Available Scripts**
 
-\`\`\`bash
+```bash
 npm run dev      # Start development server
 npm run build    # Build for production
 npm run start    # Start production server
 npm run lint     # Run ESLint
-\`\`\`
-
----
+```
 
 ## **Usage Guide**
 
